@@ -18,5 +18,5 @@ InterpolationCurve.Linear
 basic.showArrow(ArrowNames.SouthEast)
 basic.showString("Ronaldo    shuuuuu")
 basic.forever(function () {
-    music.play(music.stringPlayable("E C A D B G C5 F ", 495), music.PlaybackMode.UntilDone)
+    music.play(music.stringPlayable("E C A D B G C5 F ", 500), music.PlaybackMode.UntilDone)
 })
